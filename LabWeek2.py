@@ -1,6 +1,5 @@
 
 def kiloToMile(myKilo):
-    
     myKilo = myKilo * 0.62137
     return myKilo
 myKiloPromt = input("Enter Kilometers: ")
